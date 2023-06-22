@@ -3,4 +3,11 @@
     <string name="account">actcfx</string>
     <string name="password">123456</string>
     <string name="title_dashboard">Dashboard</string>
+
+    <string-array name="icon_list">
+        <item>@drawable/transportation</item>
+        <item>@drawable/food</item>
+        <item>@drawable/shopping</item>
+        <item>@drawable/home</item>
+    </string-array>
 </resources>
