@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Samoney</string>
+    <string name="account">actcfx</string>
+    <string name="password">123456</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>
