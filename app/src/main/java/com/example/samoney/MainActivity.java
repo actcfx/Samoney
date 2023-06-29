@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
         database = new db(this);
         edit_item = new EditItem();
         database.open(now_year, now_month);
+        database.clear(now_year, now_month);
         cursor = database.getAll(now_year, now_month);
         updateAdapter(cursor);
 
